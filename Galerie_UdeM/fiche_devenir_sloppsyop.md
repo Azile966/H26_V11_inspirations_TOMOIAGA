@@ -29,7 +29,23 @@ Type d'installation: contemplative
 
 ### Composantes et techniques
 
-Installation vid
+Installation vidéo multimédia vidéo à trois canaux sur écrans LCD, son stéréo; impression numérique sur papier; structure en bois et grille métallique; lampes annulaires, chariot de rangement, drapeau en polyester imprimé, marchandises (porte-clés, t-shirts, gobelets, coussins, bracelets).
+
+Dossier de recherche: images, nuages de mots tirés du jeu de données de tweets, captures d'écrans.
+
+![photo](Medias/livre_reference.png)
+
+### Élément nécessaires à la mise en exposition
+
+Mur, pouffs, socle.
+
+### Expérience vécue
+
+Je regardais les différents marchandises et lisais chaques posters exposés à l'avant de l'exposition. Je me suis ensuite assis sur un des pouffs avec un des écouteurs sur mes oreills pour écouter la vidéo qui était exposé à l'arrière du mur de l'exposition.
+
+### Appréciation
+
+J'étais intriguée et confuse quand j'ai lu les phrases écrites sur les posters sur le devant de l'exposition puisqu'ils ne faisaent pas beaucoup de sens. J'ai remarquée que certains de ces phrases étaient dit dans la vidéo qui joué à l'arrière de l'exposition.
 
 
 
