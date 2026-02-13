@@ -1,8 +1,9 @@
-# Exposition Devenir 
+# Exposition Devenirs partagés. Pratiques de l'IA 
 
 **Galerie de l'Université de Montréal**
 
 ![photo lieu de l'exposition](Medias/lieu_exposition.png)
+*Photo en face de la Galérie de l'université de Montréal*
 
 *(Exposition temporaire et intérieur)*
 
@@ -21,17 +22,21 @@ Francisco González-Rosas a expérimenté avec des modèles d'IA entraînés sur
 Type d'installation: immersive
 
 ![photo face de l'exposition](Medias/oeuvre_face.png)
+*Photo face de l'exposition*
 ![photo derrère de l'exposition](Medias/oeuvre_derriere.png)
+*Photo derrière de l'exposition*
 
 Personnes qui ont participé à l'oeuvre:
 
 ![photo cartel collaborateurs](Medias/cartel_collaborateurs.png)
+*Photo du cartel qui montre tous les collaborateurs*
 
 ### Mise en espace:
 
 ![croquis de l'exposition](Medias/croquis.png)
+*Croquis de l'exposition*
 
-Élément nécessaires à la mise en exposition: mur, poufs, socle, lumières, cartel.
+Élément nécessaires à la mise en exposition: mur, poufs, socle, écouteurs, lumières, cartel.
 
 ### Composantes et techniques
 
@@ -40,12 +45,16 @@ Installation vidéo multimédia vidéo à trois canaux sur écrans LCD, son sté
 Dossier de recherche: images, nuages de mots tirés du jeu de données de tweets, captures d'écrans.
 
 ![photo livre de référence](Medias/livre_reference.png)
+*Photo du livre de références*
 
 ![photo d'un des personnages](Medias/personnage.png) 
+*Photo d'un des personnages*
 
 ![photo jeu de données de tweets](Medias/jeu_donnees_tweets.png) 
+*Photo d'un jeu de données de tweets*
 
 ![photo d'une capture d'écran d'une conversation entre deux personnages](Medias/capture_ecran.png)
+*Photo d'une capture d'écran d'une converstation entre deux personnages*
 
 ### Expérience vécue
 
