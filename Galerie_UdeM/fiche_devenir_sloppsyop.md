@@ -31,7 +31,7 @@ Personnes qui ont participé à l'oeuvre:
 
 ![croquis de l'exposition](Medias/croquis.png)
 
-Élément nécessaires à la mise en exposition: mur, poufs, socle, cartel.
+Élément nécessaires à la mise en exposition: mur, poufs, socle, lumières, cartel.
 
 ### Composantes et techniques
 
