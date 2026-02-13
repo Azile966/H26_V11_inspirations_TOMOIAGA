@@ -40,7 +40,9 @@ Installation vidéo multimédia vidéo à trois canaux sur écrans LCD, son sté
 Dossier de recherche: images, nuages de mots tirés du jeu de données de tweets, captures d'écrans.
 
 ![photo livre de référence](Medias/livre_reference.png)
-
+![photo d'un des personnages](Medias/personnage.jpg)
+![photo jeu de données de tweets](Medias/jeu_donnees_tweets.jpg)
+![photo d'une capture d'écran d'une conversation entre deux personnages](Medias/capture_ecran.jpg)
 
 ### Expérience vécue
 
