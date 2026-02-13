@@ -49,7 +49,7 @@ Dossier de recherche: images, nuages de mots tirés du jeu de données de tweets
 
 ### Expérience vécue
 
-Je regardais les différents marchandises et lisais chaques posters exposés à l'avant de l'exposition. Je me suis ensuite assis sur un des pouffs avec un des écouteurs sur mes oreills pour écouter la vidéo qui était exposé à l'arrière du mur de l'exposition.
+Je regardais les différents marchandises et lisais chaques posters exposés à l'avant de l'exposition. Je me suis ensuite assis sur un des poufs avec un des écouteurs sur mes oreilles pour écouter la vidéo qui était exposé à l'arrière du mur de l'exposition.
 
 ### Appréciation
 
