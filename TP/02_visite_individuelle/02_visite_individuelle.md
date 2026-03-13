@@ -29,7 +29,7 @@ Type d'installation: contemplative, immersive et intéractive
 ![photo du dispositif](Medias/vue_dispositif.png)
 > Photo du dispositif
 
-![vidéo de comment marche le dispositif](Medias/video_dispositif.mp4)
+![vidéo de comment marche le dispositif](github.com/Azile966/H26_V11_inspirations_TOMOIAGA/main/TP/02_visite_individuelle/02_visite_individuelle/Medias/video_dispositif.mp4)
 > Video de comment marche le dirspositif
 
 Personnes qui ont participé à l'oeuvre:
