@@ -3,7 +3,10 @@
 **Biosphère**
 
 ![photo lieu de l'exposition](Medias/lieu_expo.png)
-> Photo en face de la Biosphère*
+> Photo en face de la Biosphère
+
+![photo entrée lieu de l'exposition](Medias/lieu_expo_entree.png)
+> Photo en face de L'entrée de la Biosphère
 
 *(Exposition temporaire et intérieur)
 
@@ -25,6 +28,7 @@ Type d'installation: contemplative, immersive et intéractive
 
 ![photo du dispositif](Medias/vue_dispositif.png)
 > Photo du dispositif
+
 ![vidéo de comment marche le dispositif](Medias/video_dispositif.mp4)
 > Video de comment marche le dirspositif
 
@@ -44,11 +48,11 @@ Personnes qui ont participé à l'oeuvre:
 
 ### Mise en espace:
 
-![croquis de l'exposition](Medias/croquis_vue_ensemble.png)
-> Croquis de l'exposition
+![croquis de l'exposition](Medias/croquis_mise_en_espace.png)
+> Croquis de la région où se trouve le dispositif dans l'exposition
 
 ![croquis du dispositif](Medias/croquis_dispositif.png)
-> Croquis de l'exposition
+> Croquis du dispositif
 
 Élément nécessaires à la mise en exposition: cubicule, banc, projecteur.
 
