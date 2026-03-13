@@ -2,10 +2,10 @@
 
 **Biosphère**
 
-![photo lieu de l'exposition](Medias/lieu_expo.jpg)
-*Photo en face de la Biosphère*
+![photo lieu de l'exposition](Medias/lieu_expo.png)
+> Photo en face de la Biosphère*
 
-*(Exposition temporaire et intérieur)*
+*(Exposition temporaire et intérieur)
 
 *Date de visite : 1er mars 2026*
 
@@ -17,36 +17,38 @@ Date de réalisation: 2024
 
 ### Description de l'oeuvre
 
+Renversant! Un voyage au fil de l'eau est une exposition immersive et interactive présentée à la Bisosphère de Montréal, conçue pour les familles et les jeunes de 8 ans et plus. Elle invite les visiteurs à parcourir un bassin versant en explorant les écosystèmes aquatiques à travers une approche sensorielle complète: vue, ouïe, toucher et odorat.
 
+Le dispositif suivant utilise la vue et l'ouÏe pour nous immerger dans un mini-documentaire sur la vie aquatique. Il s'agit d'un anneau lumineux interactif, où les visiteurs sont invités à "déposer leur goutte d'eau" dans la soucoupe lumineuse. Ce geste déclenche le mini-documentaire sur les écosystèmes aquatiques. Les "gouttes d'eau" sont des balles tactiles remises aux visiteurs à l'entrée, qu'ils utilisent pour interagir avec les différents dispositifs tout au long du parcours. Chaque interaction permet de découvrir des aspects scientifiques, sensoriels et écologiques liés à l'eau.
 
 Type d'installation: contemplative, immersive et intéractive
 
-![photo du dispositif](Medias/vue_dispositif.jpg)
-*Photo du dispositif*
+![photo du dispositif](Medias/vue_dispositif.png)
+> Photo du dispositif
 ![vidéo de comment marche le dispositif](Medias/video_dispositif.mp4)
-*Video de comment marche le dirspositif*
+> Video de comment marche le dirspositif
 
 Personnes qui ont participé à l'oeuvre:
 
-![photo cartel collaborateurs en grand plan](Medias/cartel_collaborateurs.jpg)
-*Photo du cartel qui montre tous les collaborateurs en entier*
+![photo cartel collaborateurs en grand plan](Medias/cartel_collab_entier.png)
+> Photo du cartel qui montre tous les collaborateurs en entier
 
-![photo cartel 1 collaborateurs](Medias/cartel_collab_1.jpg)
+![photo cartel 1 collaborateurs](Medias/cartel_collab_1.png)
 
-![photo cartel 2 collaborateurs](Medias/cartel_collab_2.jpg)
+![photo cartel 2 collaborateurs](Medias/cartel_collab_2.png)
 
-![photo cartel 3 collaborateurs](Medias/cartel_collab_3.jpg)
+![photo cartel 3 collaborateurs](Medias/cartel_collab_3.png)
 
-![photo cartel 4 collaborateurs](Medias/cartel_collab_4.jpg)
-*Photo des cartels qui montre tous les collaborateurs par colones*
+![photo cartel 4 collaborateurs](Medias/cartel_collab_4.png)
+> Photo des cartels qui montre tous les collaborateurs par colones
 
 ### Mise en espace:
 
-![croquis de l'exposition](Medias/croquis.jpg)
-*Croquis de l'exposition*
+![croquis de l'exposition](Medias/croquis_vue_ensemble.png)
+> Croquis de l'exposition
 
-![croquis du dispositif](Medias/croquis_dispositif.jpg)
-*Croquis de l'exposition*
+![croquis du dispositif](Medias/croquis_dispositif.png)
+> Croquis de l'exposition
 
 Élément nécessaires à la mise en exposition: cubicule, banc, projecteur.
 
