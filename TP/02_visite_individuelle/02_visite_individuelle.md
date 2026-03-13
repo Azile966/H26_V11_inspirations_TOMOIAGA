@@ -2,28 +2,28 @@
 
 **Biosphère**
 
-![photo lieu de l'exposition](Medias/lieu_exposition.png)
+![photo lieu de l'exposition](Medias/lieu_expo.jpg)
 *Photo en face de la Biosphère*
 
 *(Exposition temporaire et intérieur)*
 
-*Date de visite : 30 janvier 2026*
+*Date de visite : 1er mars 2026*
 
-## SlopPsyopRealsim (plea$e subscribe)
+## Renversant! Un voyage au fil de l'eau
 
-**Par Francisco González-Rosas**
+**Par TKNL Expériences**
 
-Date de réalisation: 2025
+Date de réalisation: 2024
 
 ### Description de l'oeuvre
 
-Francisco González-Rosas a expérimenté avec des modèles d'IA entraînés sur ses propres images pour créer des vidéos qui jouent avec les codes de la culture post-Internet, en y intégrant des éléments issus de discussions collectées sur les réseaux sociaux. Son installation propose un paysage saturé, frénétique et peuplé par les figures dominantes de la culture numérique actuelle. Elle illustre la conjonction historique présente de crises politiques alarmantes qui s'accélèrent au moment même où les images et vidéos défilent, se répètent et se transforment sans cesse, et où l'IA est déployée à grande échelle, tant dans les contenus que dans leurs manières de circuler comme marchandises. En reprenant l'esthétique et les interfaces numérique qui s'affairent à marchandiser l'extraction parasitaire des données, sur l'environnement visuel et sonore ainsi produit engage une réflexion affective et critique sur notre rapport aux images et aux symboles que nous consommons quotidiennement.
 
-Type d'installation: immersive
 
-![photo face de l'exposition](Medias/oeuvre_face.png)
-*Photo face de l'exposition*
-![photo derrère de l'exposition](Medias/oeuvre_derriere.png)
+Type d'installation: contemplative, immersive et intéractive
+
+![photo du dispositif](Medias/vue_dispositif.jpg)
+*Photo du dispositif*
+![vidéo de comment marche le dispositif](Medias/video_dispositif.mp4)
 *Photo derrière de l'exposition*
 
 Personnes qui ont participé à l'oeuvre:
