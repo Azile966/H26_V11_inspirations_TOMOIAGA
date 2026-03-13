@@ -21,27 +21,29 @@ Date de réalisation: 2025
 "Francisco González-Rosas a expérimenté avec des modèles d'IA entraînés sur ses propres images pour créer des vidéos qui jouent avec les codes de la culture post-Internet, en y intégrant des éléments issus de discussions collectées sur les réseaux sociaux. Son installation propose un paysage saturé, frénétique et peuplé par les figures dominantes de la culture numérique actuelle. Elle illustre la conjonction historique présente de crises politiques alarmantes qui s'accélèrent au moment même où les images et vidéos défilent, se répètent et se transforment sans cesse, et où l'IA est déployée à grande échelle, tant dans les contenus que dans leurs manières de circuler comme marchandises. En reprenant l'esthétique et les interfaces numérique qui s'affairent à marchandiser l'extraction parasitaire des données, sur l'environnement visuel et sonore ainsi produit engage une réflexion affective et critique sur notre rapport aux images et aux symboles que nous consommons quotidiennement."
 > Francisco González-Rosas
 
+![photo du cartel biographie](Medias/cartel_bio.png)
+
 Type d'installation: immersive
 
-![photo face de l'exposition](Medias/oeuvre_face.png)
+![photo du devant l'oeuvre](Medias/oeuvre_face.png)
 
-> Photo face de l'oeuvre
-> 
-![photo derrère de l'exposition](Medias/oeuvre_derriere.png)
+> Photo du devant de l'oeuvre
 
-> Photo derrière de l'oeuvre
+![photo de derrère de l'oeuvre](Medias/oeuvre_derriere.png)
+
+> Photo du derrière de l'oeuvre
 
 Personnes qui ont participé à l'oeuvre:
 
-![photo cartel collaborateurs](Medias/cartel_collaborateur.png)
+![photo du cartel avec les collaborateurs](Medias/cartel_collaborateur.png)
 
 *Photo du cartel qui montre tous les collaborateurs*
 
 ### Mise en espace:
 
-![croquis de l'exposition](Medias/croquis.png)
+![croquis de l'oeuvre](Medias/croquis.png)
 
-> Croquis de l'exposition
+> Croquis de l'oeuvre
 
 Élément nécessaires à la mise en exposition: 
 
@@ -57,11 +59,11 @@ Personnes qui ont participé à l'oeuvre:
 
 ![photo du socle](Medias/socle_et_livre.png)
 
-- lumières
+- lumières + herse d'accrochage
 
 ![photos de lumières accrochées](Medias/lumiere.png)
 
-- cartel
+- cartel en entier
 
 ![photo du cartel](Medias/cartel_entier.png)
 
@@ -69,23 +71,20 @@ Personnes qui ont participé à l'oeuvre:
 
 Installation vidéo multimédia vidéo à trois canaux sur écrans LCD, son stéréo; impression numérique sur papier; structure en bois et grille métallique; lampes annulaires, chariot de rangement, drapeau en polyester imprimé, marchandises (porte-clés, t-shirts, gobelets, coussins, bracelets).
 
+![photo du devant l'oeuvre](Medias/oeuvre_face.png)
+![photo de derrère de l'oeuvre](Medias/oeuvre_derriere.png)
+
 Dossier de recherche: images, nuages de mots tirés du jeu de données de tweets, captures d'écrans.
 
-![photo livre de référence](Medias/livre_reference.png)
+![photo du livre de référence](Medias/livre_reference.png)
 
 > Photo du livre de références
 
 ![photo d'un des personnages](Medias/personnage.png) 
-
-> Photo d'un des personnages
-
 ![photo jeu de données de tweets](Medias/jeu_donnee_tweet.png) 
-
-> Photo d'un jeu de données de tweets
-
 ![photo d'une capture d'écran d'une conversation entre deux personnages](Medias/capture_ecran.png)
 
-> Photo d'une capture d'écran d'une converstation entre deux personnages
+> Photo d'un des personnages, d'un jeu de données de tweets et d'une capture d'écran d'une converstation entre deux personnages
 
 ### Expérience vécue
 
