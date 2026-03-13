@@ -2,17 +2,17 @@
 
 **Biosphère**
 
-![photo lieu de l'exposition](Medias/lieu_expo.png)
+![photo lieu de l'exposition](media/lieu_expo.png)
 > Photo en face de la Biosphère
 
-![photo entrée lieu de l'exposition](Medias/lieu_expo_entree.png)
+![photo entrée lieu de l'exposition](media/lieu_expo_entree.png)
 > Photo en face de L'entrée de la Biosphère
 
 *(Exposition temporaire et intérieur)
 
 *Date de visite : 1er mars 2026*
 
-![photo cartel avec le titre de l'exposition](Medias/cartel_titre_expo.png)
+![photo cartel avec le titre de l'exposition](media/cartel_titre_expo.png)
 
 > Titre de l'exposition
 
@@ -30,30 +30,30 @@ Le dispositif suivant utilise la vue, le toucher et l'ouÏe pour nous immerger d
 
 Type d'installation: contemplative, immersive et intéractive
 
-![photo du dispositif](Medias/vue_dispositif.png)
+![photo du dispositif](media/vue_dispositif.png)
 > Photo du dispositif
 
 Personnes qui ont participé à l'oeuvre:
 
-![photo cartel collaborateurs en grand plan](Medias/cartel_collab_entier.png)
+![photo cartel collaborateurs en grand plan](media/cartel_collab_entier.png)
 > Photo du cartel qui montre tous les collaborateurs en entier
 
-![photo cartel 1 collaborateurs](Medias/cartel_collab_1.png)
+![photo cartel 1 collaborateurs](media/cartel_collab_1.png)
 
-![photo cartel 2 collaborateurs](Medias/cartel_collab_2.png)
+![photo cartel 2 collaborateurs](media/cartel_collab_2.png)
 
-![photo cartel 3 collaborateurs](Medias/cartel_collab_3.png)
+![photo cartel 3 collaborateurs](media/cartel_collab_3.png)
 
-![photo cartel 4 collaborateurs](Medias/cartel_collab_4.png)
+![photo cartel 4 collaborateurs](media/cartel_collab_4.png)
 
 > Photo des cartels qui montre tous les collaborateurs par colones
 
 ### Mise en espace:
 
-![croquis de l'exposition](Medias/croquis_mise_en_espace.png)
+![croquis de l'exposition](media/croquis_mise_en_espace.png)
 > Croquis de la région où se trouve le dispositif dans l'exposition
 
-![croquis du dispositif](Medias/croquis_dispositif.png)
+![croquis du dispositif](media/croquis_dispositif.png)
 > Croquis du dispositif
 
 Élément nécessaires à la mise en exposition: cubicule, banc, projecteur.
@@ -78,17 +78,17 @@ Photos et vidéo prises par Eliza Tomoiaga
 
 **[site web du l'eau d'exposition](https://calendrier.espacepourlavie.ca/renversant-un-voyage-au-fil-de-leau)**
 
-![photo cartel collaborateurs en grand plan](Medias/cartel_collab_entier.png)
+![photo cartel collaborateurs en grand plan](media/cartel_collab_entier.png)
 
 > Photo du cartel qui montre tous les collaborateurs en entier
 
-![photo cartel 1 collaborateurs](Medias/cartel_collab_1.png)
+![photo cartel 1 collaborateurs](media/cartel_collab_1.png)
 
-![photo cartel 2 collaborateurs](Medias/cartel_collab_2.png)
+![photo cartel 2 collaborateurs](media/cartel_collab_2.png)
 
-![photo cartel 3 collaborateurs](Medias/cartel_collab_3.png)
+![photo cartel 3 collaborateurs](media/cartel_collab_3.png)
 
-![photo cartel 4 collaborateurs](Medias/cartel_collab_4.png)
+![photo cartel 4 collaborateurs](media/cartel_collab_4.png)
 
 > Photo des cartels qui montre tous les collaborateurs par colones
 
