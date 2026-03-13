@@ -12,6 +12,10 @@
 
 *Date de visite : 1er mars 2026*
 
+![photo cartel avec le titre de l'exposition](Medias/cartel_titre_expo.png)
+
+> Titre de l'exposition
+
 ## "Module Voyage au fil de l'eau"
 
 **Par TKNL Expériences**
