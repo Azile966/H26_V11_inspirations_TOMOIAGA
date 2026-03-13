@@ -12,7 +12,7 @@
 
 *Date de visite : 1er mars 2026*
 
-## Renversant! Un voyage au fil de l'eau
+## "Module Voyage au fil de l'eau"
 
 **Par TKNL Expériences**
 
@@ -41,6 +41,7 @@ Personnes qui ont participé à l'oeuvre:
 ![photo cartel 3 collaborateurs](Medias/cartel_collab_3.png)
 
 ![photo cartel 4 collaborateurs](Medias/cartel_collab_4.png)
+
 > Photo des cartels qui montre tous les collaborateurs par colones
 
 ### Mise en espace:
@@ -71,5 +72,19 @@ Ce que j'ajouterais c'est des défis collaboratifs pour encourager les échanges
 
 Photos et vidéo prises par Eliza Tomoiaga
 
+**[site web du l'eau d'exposition](https://calendrier.espacepourlavie.ca/renversant-un-voyage-au-fil-de-leau)**
 
+![photo cartel collaborateurs en grand plan](Medias/cartel_collab_entier.png)
+
+> Photo du cartel qui montre tous les collaborateurs en entier
+
+![photo cartel 1 collaborateurs](Medias/cartel_collab_1.png)
+
+![photo cartel 2 collaborateurs](Medias/cartel_collab_2.png)
+
+![photo cartel 3 collaborateurs](Medias/cartel_collab_3.png)
+
+![photo cartel 4 collaborateurs](Medias/cartel_collab_4.png)
+
+> Photo des cartels qui montre tous les collaborateurs par colones
 
