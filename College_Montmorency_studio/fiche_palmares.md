@@ -75,7 +75,8 @@ Schéma de l'installation
 
 ## Installation en cours
 
-
+![photo de l'écran de l'oeuvre](media/installation_Symbiose_ecran.jpg)
+![photo de l'oeuvre](media/installation_Symbiose_bouton.jpg)
 
 > Photo prise du GitHub
 
