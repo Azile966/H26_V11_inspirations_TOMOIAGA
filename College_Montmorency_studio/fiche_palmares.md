@@ -11,7 +11,7 @@
 
 ## Installation en cours
 
-![photo des boutons de l'oeuvre](media/installation_Mission_boutons.jpg)
+![photo des boutons de l'oeuvre](media/installation_Mission_bouton.jpg)
 ![photo de l'écran de l'oeuvre](media/installation_Mission_ecran.png)
 > Photos prise du GitHub
 
@@ -75,10 +75,10 @@ Schéma de l'installation
 
 ## Installation en cours
 
-![photo de l'écran de l'oeuvre](media/installation_Symbiose_ecran.jpg)
-![photo de l'oeuvre](media/installation_Symbiose_bouton.jpg)
+![photo de l'écran de l'oeuvre](media/installation_Symbiose_ecran.png)
+![photo des boutons de l'oeuvre](media/installation_Symbiose_bouton.png)
 
-> Photo prise du GitHub
+> Photos prise du GitHub (la photo de l'écran est prise de la bande-annonce à 0:25 secondes)
 
 Schéma de l'installation
 
