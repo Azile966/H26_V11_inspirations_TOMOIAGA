@@ -9,7 +9,7 @@
 - Danna Saavedra-Torrano
 - Mégane Ranger
 
-## Installation finale
+## Installation en cours
 
 ![photo des boutons de l'oeuvre](media/installation_Mission_boutons.jpg)
 ![photo de l'écran de l'oeuvre](media/installation_Mission_ecran.png)
@@ -31,14 +31,14 @@ Schéma de l'installation
 - Thearylou Lach
 - Justin Saloumi
 
-## Installation finale
+## Installation 
 
 ![photo d'un téléphone](media/installation_Terminal_commande.jpg)
 ![photo de l'oeuvre](media/installation_Terminal.jpg)
 
 > Photo prise du GitHub
 
-Schéma de l'installation
+Schéma de l'installation en cours
 
 > Schéma fait par Eliza Tomoiaga
 
@@ -53,7 +53,7 @@ Schéma de l'installation
 - Edelwyn Ledru
 - Félix Lavoie
 
-## Installation finale
+## Installation en cours
 
 ![photo de l'oeuvre](media/installation_yeux.jpg)
 
@@ -73,7 +73,7 @@ Schéma de l'installation
 - Ryan Dufault
 - Walid Cheour
 
-## Installation finale
+## Installation en cours
 
 
 
@@ -91,7 +91,7 @@ Schéma de l'installation
 - Amira Tounerkti
 - Kristy Moussally
 
-## Installation finale
+## Installation en cours
 
 ![photo de l'oeuvre](media/installation_Ocean_Rouge.jpg)
 
