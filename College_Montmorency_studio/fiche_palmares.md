@@ -11,7 +11,9 @@
 
 ## Installation finale
 
-> Photo prise du GitHub
+![photo des boutons de l'oeuvre](media/installation_Mission_boutons.jpg)
+![photo de l'écran de l'oeuvre](media/installation_Mission_ecran.png)
+> Photos prise du GitHub
 
 Schéma de l'installation
 
@@ -30,6 +32,8 @@ Schéma de l'installation
 - Justin Saloumi
 
 ## Installation finale
+
+![photo de l'oeuvre](media/installation_Terminal.jpg)
 
 > Photo prise du GitHub
 
