@@ -33,6 +33,7 @@ Schéma de l'installation
 
 ## Installation finale
 
+![photo d'un téléphone](media/installation_Terminal_commande.jpg)
 ![photo de l'oeuvre](media/installation_Terminal.jpg)
 
 > Photo prise du GitHub
@@ -54,6 +55,8 @@ Schéma de l'installation
 
 ## Installation finale
 
+![photo de l'oeuvre](media/installation_yeux.jpg)
+
 > Photo prise du GitHub
 
 Schéma de l'installation
@@ -72,6 +75,8 @@ Schéma de l'installation
 
 ## Installation finale
 
+
+
 > Photo prise du GitHub
 
 Schéma de l'installation
@@ -87,6 +92,8 @@ Schéma de l'installation
 - Kristy Moussally
 
 ## Installation finale
+
+![photo de l'oeuvre](media/installation_Ocean_Rouge.jpg)
 
 > Photo prise du GitHub
 
