@@ -33,7 +33,7 @@ Schéma de l'installation
 
 ## Installation 
 
-![photo d'un téléphone](media/installation_Terminal_commande.jpg)
+![photo d'un téléphone](media/installation_Terminal_manette.jpg)
 ![photo de l'oeuvre](media/installation_Terminal.jpg)
 
 > Photo prise du GitHub
