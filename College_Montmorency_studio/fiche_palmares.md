@@ -24,7 +24,7 @@
 
 ## Éxpériance
 
-Avant: J'étais très intérréssée de l'idée 
+Avant: J'étais très interressée de l'idée d'une aventure dans l'espace. J'étais curieuse de voir si moi et mes amies allions réussir le jeu en un essai. Le jeu avait l'air simple sur papier: appuyer sur des boutons lorsqu'on nous le demandait et naviguer à travers les roches dans l'espace.
 
 Après: J'ai du faire plusieurs essais avec mes amies pour comprendre quels boutons activer et désactiver et à quel moment. Même s'il y avait une feuille de note avec le rôle de chaque boutons devant nous et l'aide d'un des membres de l'équipe qui à fait l'oeuvre, on avait presque pas de temps de réaction puisque le jeu était très rapide. Cependant, c'est cette adrénaline qui nous a poussé à ne pas abandonner et à recommecer trois à quatre fois pour enfin réussir. C'était juste une question d'équipe. J'ai vraiment aimé cette oeuvre.
 
@@ -52,9 +52,9 @@ Après: J'ai du faire plusieurs essais avec mes amies pour comprendre quels bout
 
 ## Éxpériance
 
-Avant:
+Avant: L'oeuvre a l'air cool et amusant puisque c'est un jeu où il faut se rendre à la fin des niveaux. Cependant, en bougeant notre opérateur, on devient en même temps un obstacle pour les autres joueurs. C'est un défis que j'aimerais le relevé avec mes amies et les autres collègues de classe.
 
-Après:
+Après: Le jeu était très amusants même si des fois ça devenait un peu énervant de rcommencer la partie pluiseurs fois à la toute fin parce que une personne se faisait prendre par le pirate, foncait directement dans la trajectoire d'un autre opérateur ou se prenait les murs du niveau. Au final, on riait tous de nos innatentions et on essayait de ne plus faire les mêmes erreurs.
 
 # 3) Symbiose
 
