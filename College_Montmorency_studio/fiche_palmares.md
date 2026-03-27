@@ -11,14 +11,14 @@
 
 ## Installation en cours
 
-![photo des boutons de l'oeuvre](media/installation_Mission_bouton.jpg)
-![photo de l'écran de l'oeuvre](media/installation_Mission_ecran.png)
+![photo des boutons de l'oeuvre](media/installation_MD_bouton.jpg)
+![photo de l'écran de l'oeuvre](media/installation_MD_ecran.png)
 
 > Photos prise du GitHub Mission
 
 ### Schéma de l'installation
 
-![croquis de l'installation Mission](media/croquis_Mission.png)
+![croquis de l'installation Mission](media/croquis_Mission_Decollage.png)
 
 > Croquis de l'installation Mission
 
@@ -46,7 +46,7 @@ Après: J'ai du faire plusieurs essais avec mes amies pour comprendre quels bout
 
 ### Schéma de l'installation en cours
 
-![croquis de l'installation Mission](media/croquis_Mission.png)
+![croquis de l'installation Mission](media/croquis_Terminal.png)
 
 > Croquis de l'installation Terminal
 
@@ -122,7 +122,7 @@ Après: Je trouvais l'oeuvre difficile puisque les déchets arrivaient vite et a
 
 ## Installation en cours
 
-![photo de l'oeuvre](media/installation_yeux.jpg)
+![photo de l'oeuvre](media/installation_QLYSC.jpg)
 
 > Photo prise du GitHub Quand les yeux se croisent
 
