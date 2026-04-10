@@ -30,7 +30,7 @@ Type d'installation: immersive
 
 ### Mise en espace:
 
-![croquis de l'oeuvre](media/croquis_AF.jpg)
+![croquis de l'oeuvre](media/croquis_AF.png)
 
 > Croquis de l'oeuvre
 
