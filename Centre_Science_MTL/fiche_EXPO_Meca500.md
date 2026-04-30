@@ -2,7 +2,7 @@
 
 **Centre des sciences de Montréal**
 
-![photo lieu de l'exposition]()
+![photo lieu de l'exposition](media/lieu_exposition.jpg)
 
 > Photo en face du Centre des sciences de Montréal
 
