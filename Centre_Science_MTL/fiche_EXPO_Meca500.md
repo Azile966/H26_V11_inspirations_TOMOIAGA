@@ -1,18 +1,16 @@
-# Exposition Réseau vivant
+# Exposition Meca500
 
-**Studio TIM au collège Montmorency**
+**Centre des sciences de Montréal**
 
-![photo lieu de l'exposition](media/lieu_exposition_AF.jpg)
+![photo lieu de l'exposition]()
 
-> Photo en face du studio TIM
+> Photo en face du Centre des sciences de Montréal
 
-*(Exposition temporaire et intérieur)*
+*(Exposition permantente et intérieur)*
 
-*Date de visite : 17 mars 2026*
+*Date de visite : 1 avril 2026*
 
-## Arbre en Face
-
-**Par Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dube**
+## Meca500
 
 Date de réalisation: 2025
 
