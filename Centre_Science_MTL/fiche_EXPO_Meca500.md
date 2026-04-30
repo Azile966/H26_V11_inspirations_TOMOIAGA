@@ -1,4 +1,4 @@
-# Exposition Meca500
+# Exposition Danse, Robot, Danse!
 
 **Centre des sciences de Montréal**
 
@@ -10,51 +10,47 @@
 
 *Date de visite : 1 avril 2026*
 
-## Meca500
+## Danse, Robot, Danse!
 
-Date de réalisation: 2025
+Date de réalisation: 21 juillet 2021
 
 ### Description de l'oeuvre
 
-Arbre en Face est une installation où les personnes peuvent intéragir avec la nature avec une touche d'humour. Les participants doivent traîner leur doigt sur la toile pour pousser des fleurs ou des arbres. Chaque centre de fleur est accompagné par le visage d'un participant. Cet oeuvre veut promouvoir l'équilibre et l'exccès, la solidarité et la responsabilité collective pour nous encourager à faire plus attention au monde végétal.
 
-![photo du cartel biographie](media/cartel_AF.jpg)
 
-Type d'installation: immersive
+![photo du cartel biographie](media/description_robot.jpg)
 
-![photo de l'oeuvre](media/installation_AF.jpg)
+Type d'installation: intéractive
+
+![photo de l'oeuvre](media/ensemble.jpg)
 
 > Photo de l'oeuvre
 
 ### Mise en espace:
 
-![croquis de l'oeuvre](media/croquis_AF.png)
+![croquis de l'oeuvre]()
 
 > Croquis de l'oeuvre
 
 Élément nécessaires à la mise en exposition: 
 
-- support + cartel
+
 
 ### Composantes et techniques
-Ordinateur de l'école, 2 moniteurs, clavier, souris, 2 haut-parleurs, caméra pour ordinateur, 1-2 lidars, 1-2 projecteurs, toile de spendax, 40 pinces pour la toile, 4 trépieds, bc204, 4 multiprises électriques, 6 rallonges électrique, 4 rouleaus de velcro pour fils, 6 cable Ethernet, transmetteur Cat6, 5 cables HDMI, 3 cable XLR, 4 cables USB, 2 cable Display Port, sacs de sable (quantité non mentionné), bois (quantité non mentionné).
+
 
 
 ### Expérience vécue
 
-J'ai traîné mon doigt sur la toile et une plante est apparu avec un petit son et un visage random. J'ai refait la même chose à un endroit différent de l'écran et une plante différente est apparu avec un autre visage. J'ai touché un nuage et un arc-en-ciel est apparu. J'ai touché un autre nuage et un autre visage est apparu.
+
 
 ### Appréciation
 
-J'ai aimé qu'il y avait une diversité des plantes et chacuns avaient un petit son différent quand elles apparaissaient. Il y avait des tailles et des espèces différentes. Ceraines plantes n'avaient pas de visages, ce qui faisait l'intéraction encore plus le fun parce qu'on ne savait pas quand on allé voir une autre face. J'ai aimé qu'on pouvait aussi intéragir avec des nuages pour rendre l'intéraction plus intérressante. Chaque nuages avaient une animation différente: un faisait apparaître un ar-en-ciel tandis qu'un autres faisait apparaitre un autre visage.
 
-Ce que j'aurais amélioré c'est faire en sorte que se ne soit pas trop long pour faire pousser les plantes. Il fallait traîner son doigt plusieurs fois sur la toile pour faire pousser une seule plante.
 
 ### Références
 
-> Photo du lieu d'exposition + cartel : Aline Teresa Manoukian
-
-> Informations sur l'oeuvre : [composantes et techniques](https://mammouths.github.io/projet/#/technique/)
+> Photo du batiment : [Centre des sciences de Montréal extérieur](https://tickets.vieuxportdemontreal.com/WebStore/landingPage?cg=CSM&language=1)
 
 
 
