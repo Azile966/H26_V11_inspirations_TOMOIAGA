@@ -30,7 +30,7 @@ Type d'installation: intéractive
 
 ### Mise en espace:
 
-![croquis de l'oeuvre]()
+![croquis de l'oeuvre](media/croquis.jpg)
 
 > Croquis de l'oeuvre
 
