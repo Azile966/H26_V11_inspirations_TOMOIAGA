@@ -45,6 +45,7 @@ Type d'installation: intéractive
 - robot Meca500
 - blocs colorés
 - caméra
+- haut-parleur
 
 ### Expérience vécue
 
