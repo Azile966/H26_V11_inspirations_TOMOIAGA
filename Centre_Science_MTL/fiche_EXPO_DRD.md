@@ -8,6 +8,10 @@
 
 *(Exposition permantente et intérieur)*
 
+![photo de l'exposition](media/exposition.jpg)
+
+> Photo de l'exposition
+
 *Date de visite : 1 avril 2026*
 
 ## Danse, Robot, Danse!
@@ -63,6 +67,13 @@ L’installation est aussi bien présentée : la vitrine, l’éclairage et l’
 
 > Photo du batiment : [Centre des sciences de Montréal extérieur](https://tickets.vieuxportdemontreal.com/WebStore/landingPage?cg=CSM&language=1)
 
+![photo du cartel de collaborateurs](media/cartel_collaborateur.jpg)
+
+> photo du cartel des collaborateurs
+
+ ![photo du cartel ds partenaires](media/cartel_partenaire.jpg)
+
+> photo du cartel des partenaires
 
 
 
