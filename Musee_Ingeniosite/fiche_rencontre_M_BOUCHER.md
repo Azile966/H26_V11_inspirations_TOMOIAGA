@@ -9,3 +9,5 @@ La première installation portait sur l’auto neige, un véhicule emblématique
 Le bogie de métro était présenté dans une installation interactive. Le jeu montrait que la célèbre mélodie du métro venait des vibrations du bogie. L’activité principale consistait à utiliser des boutons de fréquences pour trouver la bonne séquence et “redémarrer” le métro. Chaque fréquence produisait un son différent, ce qui permettait de comprendre comment le courant électrique influence le bruit du moteur. Cette interaction rendait le fonctionnement du bogie simple à visualiser et amusant à expérimenter.
 
 En conclusion, cette rencontre m’a permis de voir tout le travail invisible derrière une exposition. J’ai apprécié comprendre comment lumière, son et projection peuvent transformer des objets techniques en expériences captivantes.
+
+![photo de l'installation bogie](media/bogie.jpeg)
