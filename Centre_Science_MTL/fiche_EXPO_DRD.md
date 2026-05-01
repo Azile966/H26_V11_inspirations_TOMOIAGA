@@ -24,6 +24,8 @@ Type d'installation: intéractive
 
 ![photo de l'oeuvre](media/ensemble.jpg)
 
+![photo du panneau de l'oeuvre](media/panneau.jpg)
+
 > Photo de l'oeuvre
 
 ### Mise en espace:
