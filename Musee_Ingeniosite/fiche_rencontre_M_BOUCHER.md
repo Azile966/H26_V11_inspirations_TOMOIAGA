@@ -2,17 +2,10 @@
 
 ## Rédiger par Eliza Tomoiaga
 
-Dans le cadre du cours d'exposition, le technicien en multimédia, Martin Boucher, a donné une conférence en ligne, nous présentant une exéperience du Musée de l'ingéniosité et deux dispositif multimédias. 
+Lors de la conférence au Musée de l’ingéniosité J. Armand Bombardier, M. Boucher nous a présenté les coulisses de deux installations importantes : l’auto neige et le bogie de métro. À travers ces dispositifs, il nous a montré comment le musée combine histoire, technologie et mise en scène pour créer des expériences immersives.
 
-Premièrement, il nous a parlé de 
+La première installation portait sur l’auto neige, un véhicule emblématique de Bombardier. Nous avons appris que sa présentation repose sur un ensemble d’éléments visuels et sonores : projecteurs, éclairage contrôlé et sons. M. Boucher a expliqué que ces choix visent à attirer l’attention du visiteur et à rendre l’objet plus vivant. L’équipe derrière cette installation est nombreuse pour créer un environnement cohérent.
 
+Le bogie de métro était présenté dans une installation interactive. Le jeu montrait que la célèbre mélodie du métro venait des vibrations du bogie. L’activité principale consistait à utiliser des boutons de fréquences pour trouver la bonne séquence et “redémarrer” le métro. Chaque fréquence produisait un son différent, ce qui permettait de comprendre comment le courant électrique influence le bruit du moteur. Cette interaction rendait le fonctionnement du bogie simple à visualiser et amusant à expérimenter.
 
-
-Deuxièmement, Martin Boucher nous a montrer deux installations multimédias: le Garage et la Zone Boji
-
-
-
-
-
-
-Le compte-rendu doit avoir un titre. Le propos doit être bien structuré (en paragraphes) avec une introduction qui présente l'intervenant et le thème de sa conférence. Puis, quelques-unes des grandes idées partagées sont expliquées dans le développement. Enfin, votre conclusion partagera une appréciation de la conférence, appréciation qui sera appuyée d'une justification (le pourquoi). Il est important de conserver une attitude ouverte et respectueuse dans cette partie du compte-rendu.
+En conclusion, cette rencontre m’a permis de voir tout le travail invisible derrière une exposition. J’ai apprécié comprendre comment lumière, son et projection peuvent transformer des objets techniques en expériences captivantes.
